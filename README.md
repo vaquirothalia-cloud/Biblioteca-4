@@ -41,7 +41,7 @@ Ejecutar las pruebas unitarias:
 prueba ./mvnw
 
 Autores
-Jeferson Rueda
+Jefferson Rueda
 
 Thalía Vaquiro
 
