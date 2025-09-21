@@ -11,7 +11,7 @@ Este proyecto es una aplicación de ejemplo desarrollada con **Spring Boot** que
 
 
 #  Configuración
-En el archivo `application.properties` se define la configuración básica de la aplicación, como la conexión a la base de datos (por defecto H2).
+En el archivo `application.properties` se define la configuración básica de la aplicación, como la conexión a la base de datos
 
 
 ## Ejecución
