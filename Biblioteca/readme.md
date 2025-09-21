@@ -7,7 +7,6 @@ Este proyecto es una aplicación de ejemplo desarrollada con **Spring Boot** que
 - **Spring Boot 3+**
 - **Spring Web** (para exponer la API REST)
 - **Spring Data JPA** (para acceso a la base de datos)
-- **H2 Database** (base de datos en memoria para pruebas)
 - **Maven** (gestión de dependencias)
 
 
